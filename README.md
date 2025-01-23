@@ -41,8 +41,11 @@ Transmit the following data types;
 ### **Receiver Design**  
 ![Receiver Design](Images/Receiver.jpg)
 ### **Monochrome Image Transmission**
-![Tx Design](Images/Image_Tx.jpg)
-![Rx Design](Images/Image_Rx.jpg)
+<p align="center">
+  <img src="Images/Image_Tx.jpg" alt="Tx Design" width="45%">
+  <img src="Images/Image_Rx.jpg" alt="Rx Design" width="45%">
+</p>
+
 ### **Binary Data Stream Transmission**
 ![Tx Design](Images/Bin_Stream_Tx.jpg)
 ![Rx Design](Images/Bin_Stream_Rx.jpg)
