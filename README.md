@@ -36,8 +36,8 @@ Transmit the following data types;
 ---
 
 ## 🔧 **Architecture**
-### **Campus Backbone Network Layout**  
-![Backbone Network Layout](Images/Backbone_Network.png)
+### **Transmitter Design**  
+![Transmitter Design](Images/Transmitter.jpeg)
 ### **ENTC Building Network Simulation**  
 ![ENTC Network Diagram](Images/ENTC_Network.png)  
 ---
