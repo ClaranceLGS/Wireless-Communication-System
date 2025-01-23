@@ -61,9 +61,8 @@ Transmit the following data types;
 ---
 
 ## 🚀 **Conclusion**
-Results and Source Files: [Drive Link]([https://drive.google.com/your-shareable-link](https://drive.google.com/drive/folders/1iKESfcS8wrHWPmJ01y9LUf-dAP9Ict9p))
-
-### This project helped us apply communication and signal processing concepts in real-world systems. It also gave us hands-on experience with SDR technology, and we learned a lot about troubleshooting and improving system reliability.
+Results and Source Files: [Drive Link](https://drive.google.com/drive/folders/1iKESfcS8wrHWPmJ01y9LUf-dAP9Ict9p?usp=sharing)
+This project helped us apply communication and signal processing concepts in real-world systems. It also gave us hands-on experience with SDR technology, and we learned a lot about troubleshooting and improving system reliability.
 ---
 
 📜 Team Members
