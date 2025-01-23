@@ -47,11 +47,16 @@ Transmit the following data types;
 </p>
 
 ### **Binary Data Stream Transmission**
-![Tx Design](Images/Bin_Stream_Tx.jpg)
-![Rx Design](Images/Bin_Stream_Rx.jpg)
+<p align="center">
+  <img src="Images/Bin_Stream_Tx.jpg" alt="Tx Design" width="45%">
+  <img src="Images/Bin_Stream_Rx.jpg" alt="Rx Design" width="45%">
+</p>
+
 ### **Audio Transmission**
-![Tx Design](Images/Audio_Tx.jpg)
-![Rx Design](Images/Audio_Rx.jpg)
+<p align="center">
+  <img src="Images/Audio_Tx.jpg" alt="Tx Design" width="45%">
+  <img src="Images/Audio_Rx.jpg" alt="Rx Design" width="45%">
+</p>
 
 ---
 
