@@ -49,7 +49,7 @@ Transmit the following data types;
 ### **Binary Data Stream Transmission**
 <p align="center">
   <img src="Images/Bin_Stream_Tx.jpg" alt="Tx Design" width="45%">
-  <img src="Images/Bin_Stream_Rx.jpg" alt="Rx Design" width="45%">
+  <img src="Images/Bin_Stream_RX.jpg" alt="Rx Design" width="45%">
 </p>
 
 ### **Audio Transmission**
