@@ -38,13 +38,24 @@ Transmit the following data types;
 ## 🔧 **Architecture**
 ### **Transmitter Design**  
 ![Transmitter Design](Images/Transmitter.jpg)
-### **ENTC Building Network Simulation**  
-![ENTC Network Diagram](Images/ENTC_Network.png)  
+### **Receiver Design**  
+![Receiver Design](Images/Receiver.jpg)
+### **Monochrome Image Transmission**
+![Tx Design](Images/Image_Tx.jpg)
+![Rx Design](Images/Image_Rx.jpg)
+### **Binary Data Stream Transmission**
+![Tx Design](Images/Bin_Stream_Tx.jpg)
+![Rx Design](Images/Bin_Stream_Rx.jpg)
+### **Audio Transmission**
+![Tx Design](Images/Audio_Tx.jpg)
+![Rx Design](Images/Audio_Rx.jpg)
+
 ---
 
 ## 🚀 **Conclusion**
+Results and Source Files: [Drive Link]([https://drive.google.com/your-shareable-link](https://drive.google.com/drive/folders/1iKESfcS8wrHWPmJ01y9LUf-dAP9Ict9p))
 
-
+This project helped us apply communication and signal processing concepts in real-world systems. It also gave us hands-on experience with SDR technology, and we learned a lot about troubleshooting and improving system reliability.
 ---
 
 📜 Team Members
