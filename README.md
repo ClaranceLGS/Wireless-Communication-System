@@ -37,7 +37,7 @@ Transmit the following data types;
 
 ## 🔧 **Architecture**
 ### **Transmitter Design**  
-![Transmitter Design](Images/Transmitter.jpeg)
+![Transmitter Design](Images/Transmitter.jpg)
 ### **ENTC Building Network Simulation**  
 ![ENTC Network Diagram](Images/ENTC_Network.png)  
 ---
